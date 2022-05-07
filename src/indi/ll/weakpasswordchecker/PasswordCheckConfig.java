@@ -17,8 +17,6 @@ public class PasswordCheckConfig {
 
     public static final Option CHECK_CONTAIN_LETTER = Option.ENABLE;
 
-    public static final Option CHECK_DISTINGGUISH_CASE = Option.ENABLE;
-
     public static final Option CHECK_LOWER_CASE = Option.DISABLE;
 
     public static final Option CHECK_UPPER_CASE = Option.ENABLE;
